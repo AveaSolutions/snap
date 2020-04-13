@@ -1,0 +1,6 @@
+{
+    "port": 7635,
+    "redash": {
+        "baseUrl": "https://dashboards.aveadesk.com"
+    }
+}
